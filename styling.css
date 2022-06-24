@@ -6,6 +6,9 @@ body{
   -webkit-box-sizing:border-box;
   -moz-box-sizing:border-box;
 }
+h1{
+  color: white;
+}
 .wrap{
   width:400px;
   margin:auto;
